@@ -1,7 +1,23 @@
-# libxdamage - master branch
+libXdamage - X Damage Extension library
+---------------------------------------
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
+This package contains the library for the X Damage extension.
 
-Commit Time: 1729391768
+Keith Packard
+keithp@keithp.com
+
+All questions regarding this software should be directed at the
+Xorg mailing list:
+
+  https://lists.x.org/mailman/listinfo/xorg
+
+The primary development code repository can be found at:
+
+  https://gitlab.freedesktop.org/xorg/lib/libXdamage
+
+Please submit bug reports and requests to merge patches there.
+
+For patch submission instructions, see:
+
+  https://www.x.org/wiki/Development/Documentation/SubmittingPatches
+
