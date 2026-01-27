@@ -32,7 +32,7 @@
 project(
   'libXdamage',
   'c',
-  version: '1.1.6',
+  version: '1.1.7',
   license: 'HPND-sell-variant',
   license_files: 'COPYING',
   meson_version: '>= 1.1.0',
